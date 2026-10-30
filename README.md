@@ -4,8 +4,7 @@
 
 A spreadsheet-based analytical solution for exploring sales performance, revenue, gross profit, product categories, and sales channels. Designed to demonstrate practical business analytics and spreadsheet modeling skills.
 
-> **Live Google Sheets demo:** [Open the spreadsheet](PASTE_YOUR_PUBLIC_GOOGLE_SHEETS_LINK_HERE)  
-> Replace the placeholder URL above with the view-only Google Sheets link before publishing this README.
+> **Live Google Sheets demo:** [Open the spreadsheet](https://docs.google.com/spreadsheets/d/1PIrsDEcErmXgWvTFiOs6NP0QxBlNZQTA0Dyc-SqPdHY/edit?usp=sharing)  
 
 ## What the project contains
 
